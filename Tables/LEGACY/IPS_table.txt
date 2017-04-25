@@ -1,0 +1,11 @@
+% latex table generated in R 3.3.2 by xtable 1.8-2 package
+% Mon Nov 28 13:56:20 2016
+\begin{tabular}{rrr}
+  \hline
+ & $\hat{t}$ & p-value \\ 
+  \hline
+Male & -0.53 & 0.59 \\ 
+  Female & -2.21 & 0.03 \\ 
+  Total & -1.99 & 0.05 \\ 
+   \hline
+\end{tabular}

@@ -1,0 +1,12 @@
+% latex table generated in R 3.3.1 by xtable 1.8-2 package
+% Tue Dec 06 15:35:04 2016
+\begin{tabular}{rrrrrr}
+& \multicolumn{2}{c}{IPS} & & \multicolumn{2}{c}{MW} \\
+\cline{2-6}
+ & $\hat{t}$ & p-value &  & $p_\lambda$ & p-value\\ 
+  \hline
+Male & -0.52 & 0.60 & & 52.47 & 0.00\\ 
+  Female & -2.17 & 0.03 & & 80.95 & 0.00\\ 
+  Total & -2.04 & 0.04 &  &79.95 & 0.00\\ 
+   \hline
+\end{tabular}

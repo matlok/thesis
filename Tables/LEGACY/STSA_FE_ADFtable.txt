@@ -1,0 +1,20 @@
+% latex table generated in R 3.3.2 by xtable 1.8-2 package
+% Mon Nov 28 13:56:19 2016
+\begin{tabular}{rrrl}
+  \hline
+ & $p_i$ & T & ADF \\ 
+  \hline
+Belgium &   2 &  75 & -3.1866 ** \\ 
+  France &   3 &  75 & -3.2337 ** \\ 
+  Germany &   2 &  75 &  0.2842  \\ 
+  Ireland &   7 &  75 & -1.6123  \\ 
+  Italy &   8 &  75 & -1.9773  \\ 
+  Luxemburg &   3 &  75 & -1.6797  \\ 
+  Netherlands &   4 &  75 & -3.1359 ** \\ 
+  Spain &   5 &  75 & -1.8540  \\ 
+  Portugal &   3 &  75 & -1.4013  \\ 
+  Austria &   6 &  75 & -2.0126  \\ 
+  Finland &   8 &  75 & -2.9247 ** \\ 
+   \hline 
+ \multicolumn{4}{l}{\scriptsize{Signifigant at level 0.1(*),0.05(**),0.01(***)}} 
+\end{tabular}

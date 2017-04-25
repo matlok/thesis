@@ -1,0 +1,20 @@
+% latex table generated in R 3.3.2 by xtable 1.8-2 package
+% Thu Nov 24 15:34:10 2016
+\begin{tabular}{rrrl}
+  \hline
+ & AIC order & T & ADF statistic \\ 
+  \hline
+BEL &   5 &  75 & -3.10135 ** \\ 
+  FRA &   7 &  75 & -3.01782 ** \\ 
+  DEU &   5 &  75 & -0.09418  \\ 
+  IRL &   8 &  75 & -1.88365  \\ 
+  ITA &   5 &  75 & -2.03241  \\ 
+  LUX &   8 &  75 & -2.46699  \\ 
+  NLD &   6 &  75 & -2.35438  \\ 
+  ESP &   6 &  75 & -1.49000  \\ 
+  PRT &   5 &  75 & -1.71252  \\ 
+  AUT &   8 &  75 & -2.00810  \\ 
+  FIN &   5 &  75 & -2.14611  \\ 
+   \hline 
+ \multicolumn{4}{l}{\scriptsize{Signifigant values denoted by *(0.1),**(0.05),***(0.01)}} 
+\end{tabular}

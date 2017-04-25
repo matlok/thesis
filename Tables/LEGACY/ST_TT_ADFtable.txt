@@ -1,0 +1,19 @@
+% latex table generated in R 3.3.2 by xtable 1.8-2 package
+% Wed Nov 23 17:13:26 2016
+\begin{tabular}{rrrl}
+  \hline
+ & AIC order & N & ADF statistic \\ 
+  \hline
+BEL &  10 &  75 & -1.9877  \\ 
+  FRA &   9 &  75 & -1.6325  \\ 
+  DEU &   6 &  75 & -0.1463  \\ 
+  IRL &  10 &  75 & -1.8314  \\ 
+  ITA &   5 &  75 & -1.7162  \\ 
+  LUX &  10 &  75 & -1.4985  \\ 
+  NLD &  10 &  75 & -1.8764  \\ 
+  ESP &   6 &  75 & -1.2239  \\ 
+  PRT &  10 &  75 & -1.8583  \\ 
+  AUT &  10 &  75 & -1.7589  \\ 
+  FIN &  10 &  75 & -1.7995  \\ 
+   \hline
+\end{tabular}

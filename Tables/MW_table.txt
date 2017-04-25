@@ -1,0 +1,11 @@
+% latex table generated in R 3.3.1 by xtable 1.8-2 package
+% Tue Dec 06 15:35:04 2016
+\begin{tabular}{rrr}
+  \hline
+ & $p_\lambda$ & p-value \\ 
+  \hline
+Male & 52.47 & 0.00 \\ 
+  Female & 80.95 & 0.00 \\ 
+  Total & 79.95 & 0.00 \\ 
+   \hline
+\end{tabular}
